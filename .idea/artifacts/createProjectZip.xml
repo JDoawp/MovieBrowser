@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="createProjectZip">
+    <output-path>$PROJECT_DIR$/out/artifacts/createProjectZip</output-path>
+    <root id="root">
+      <element id="archive" name="project.zip">
+        <element id="library" level="project" name="Maven: mysql:mysql-connector-java:8.0.19" />
+        <element id="library" level="project" name="Maven: com.google.protobuf:protobuf-java:3.6.1" />
+        <element id="dir-copy" path="$PROJECT_DIR$" />
+      </element>
+    </root>
+  </artifact>
+</component>
